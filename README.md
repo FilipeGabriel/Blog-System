@@ -1,5 +1,7 @@
 # Blog System
 
+<p>Java RESTful API para o desafio da DIO</p>
+
 ## Diagrama de Classes
 
 ```mermaid
