@@ -13,8 +13,6 @@ public class PostDTO {
 	
 	private String image;
 	
-	private String postDate;
-	
 	private Long ownerPostId;
 
 }

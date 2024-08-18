@@ -16,8 +16,4 @@ public class UserDTO {
 	@JsonFormat(pattern = "dd/MM/yyyy")
 	private String birthDate;
 	
-	private String registerDate;
-	
-	private Long postId;
-	
 }
