@@ -82,7 +82,7 @@
 	                    <manifest>
 	                        <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
 	                        <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
-	                        <mainClass>io.filipegabriel.project_bank.ProjectBankApplication</mainClass>
+	                        <mainClass>io.filipegabriel.blog_system.ProjectBankApplication</mainClass>
 	                    </manifest>
 	                </archive>
 	            </configuration>
